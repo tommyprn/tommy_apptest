@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "jenius-test",
+    "slug": "jenius-test",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "jenius-test"
+}
